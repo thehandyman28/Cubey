@@ -1,0 +1,13 @@
+{
+"companyName": "HandyGames",
+"productName": "Cubey",
+"dataUrl": "webgl6.data.unityweb",
+"wasmCodeUrl": "webgl6.wasm.code.unityweb",
+"wasmFrameworkUrl": "webgl6.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
